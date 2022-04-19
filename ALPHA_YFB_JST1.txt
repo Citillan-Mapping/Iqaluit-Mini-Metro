@@ -1,0 +1,759 @@
+{
+	"id": "alpha.yfb.jst_1",
+	"customName": "Alpha_YFB_JST_1",
+	"customLocalName": "ᐃᖃᓗᐃᑦ",
+	"customLocalNameLocale": "iu_CA",
+	"customCountryName": "CA",
+	"customDescription": "JST of Alpha for YFB Project (Test 1)",
+	"lineCount": 8,
+	"crossingStyle": "Bridge",
+	"audioLoadoutId": "audio.alpha.yfb.jst_1",
+	"debugShowCityAreas": true,
+
+	"theme": "Inuit_Map",
+
+	"obstacles": [{
+			"points": [
+				[-3500.0, 2000.0],
+				[3500.0, 2000.0],
+				[3500.0, -2000.0],
+				[-3500.0, -2000.0]
+			],
+			"note": "The Background",
+			"visual": true,
+			"inverted": true,
+			"decoration": true,
+			"inPreview": false,
+			"cornerRadius": 1.0
+		},
+		{
+			"points": [
+				[-3500.0, 2000.0],
+				[3500.0, 2000.0],
+				[3500.0, -2000.0],
+				[-3500.0, -2000.0]
+			],
+			"note": "Water Body",
+			"inverted": false,
+			"transition": false,
+			"logical": false,
+			"visual": true,
+			"inPreview": true,
+			"decoration": false,
+			"alpha": 255,
+			"cornerRadius": 1.0
+		},
+		{
+			"points": [
+				[-1654.4861,-1450.4536],
+				[306.61957,-1451.9083],
+				[314.95475,-1430.4468],
+				[363.20551,-1436.0576],
+				[380.70148,-1417.9888],
+				[430.6075,-1264.106],
+				[486.34557,-1171.619],
+				[498.59667,-1161.2782],
+				[500.67154,-1137.9255],
+				[467.90887,-1097.588],
+				[481.54657,-998.55369],
+				[457.41192,-993.4413],
+				[443.6243,-971.04814],
+				[443.88249,-956.1261],
+				[422.52209,-934.5951],
+				[406.74926,-933.98826],
+				[389.55983,-917.45399],
+				[388.02598,-895.76995],
+				[400.57572,-877.49749],
+				[399.77913,-860.70023],
+				[416.88357,-846.91006],
+				[397.30021,-828.1255],
+				[389.94194,-810.99978],
+				[392.53516,-777.44075],
+				[370.29665,-749.29521],
+				[369.69261,-735.57518],
+				[375.16225,-727.35976],
+				[376.06156,-701.69702],
+				[370.54378,-696.19996],
+				[370.07454,-681.16776],
+				[398.84932,-645.22132],
+				[398.8354,-634.35776],
+				[387.1976,-635.74979],
+				[381.04801,-626.09398],
+				[381.15055,-615.21105],
+				[393.65039,-614.59757],
+				[413.7886,-600.18085],
+				[466.98236,-536.19444],
+				[484.82803,-534.50098],
+				[511.36002,-505.01591],
+				[645.5445,-428.4464],
+				[751.64934,-346.85736],
+				[760.94098,-334.21163],
+				[762.08001,-309.9514],
+				[745.88768,-284.18696],
+				[744.70474,-254.77691],
+				[728.12753,-246.84699],
+				[715.78901,-203.40789],
+				[691.95853,-162.12567],
+				[662.51607,-145.48624],
+				[640.93673,-122.85459],
+				[629.57899,-90.053019],
+				[638.87525,-49.420592],
+				[660.47838,0.42237711],
+				[670,43.194506],
+				[679.19712,68.864907],
+				[701.48975,70.922071],
+				[744.37304,97.073773],
+				[747.62355,105.14967],
+				[838.94872,191.44445],
+				[869.84449,242.08583],
+				[900.83339,290.88954],
+				[901.82572,330.02558],
+				[877.91619,361.98797],
+				[881.07887,413.81216],
+				[901.40115,452.99562],
+				[919.93131,462.15954],
+				[916.83454,471.41412],
+				[932.87889,485.96579],
+				[927.54197,494.07349],
+				[830.69514,493.25049],
+				[757.58181,474.74138],
+				[642.81674,406.91425],
+				[604.45339,394.4624],
+				[553.53286,394.94223],
+				[518.60359,404.82353],
+				[501.44061,422.4172],
+				[474.30995,425.9881],
+				[439.08399,401.8458],
+				[402.28928,404.6346],
+				[361.06654,393.72981],
+				[346.34344,379.09217],
+				[322.42958,368.7659],
+				[299.05562,346.34158],
+				[287.03876,322.58103],
+				[277.78319,302.40477],
+				[254.81036,282.44184],
+				[247.56958,261.25876],
+				[226.32906,262.03778],
+				[198.26237,234.33758],
+				[135.80505,233.51502],
+				[113.58154,225.47269],
+				[97.39303,201.42494],
+				[73.315618,214.33245],
+				[-64.413937,69.009761],
+				[-159.87419,17.157141],
+				[-222.5705,17.942861],
+				[-271.96175,7.2732626],
+				[-353.20745,-46.252662],
+				[-447.15003,48.365543],
+				[-441.34446,105.32534],
+				[-307.12447,387.23114],
+				[-285.81011,464.7551],
+				[-258.30392,511.39364],
+				[-271.88436,551.89566],
+				[-233.67171,633.35837],
+				[-242.57213,679.38221],
+				[-208.72718,743.79866],
+				[-182.47849,778.34379],
+				[-177.17906,818.81853],
+				[-143.21096,839.81189],
+				[-113.6759,898.23158],
+				[-91.55512,914.8972],
+				[-100.40573,956.4759],
+				[-91.124629,998.66922],
+				[-91.830386,1018.3776],
+				[-101.18527,1031.1948],
+				[-96.700376,1044.371],
+				[-106.54556,1050.2396],
+				[-185.33741,941.43116],
+				[-208.63194,917.21362],
+				[-236.53454,850.87277],
+				[-286.42322,784.21869],
+				[-301.36188,720.21911],
+				[-329.68131,669.8472],
+				[-319.02591,610.61652],
+				[-376.66946,639.16932],
+				[-367.75624,668.34741],
+				[-372.2573,698.12349],
+				[-340.35683,734.42293],
+				[-340.8358,751.7977],
+				[-351.72814,777.17649],
+				[-351.99757,797.61197],
+				[-370.87206,807.64284],
+				[-355.37504,848.15812],
+				[-384.06229,855.3471],
+				[-399.30241,826.49773],
+				[-418.29012,815.21925],
+				[-475.6487,734.51583],
+				[-474.46533,720.75113],
+				[-493.8257,686.72287],
+				[-491.13489,665.1873],
+				[-519.61325,659.14074],
+				[-565.61827,541.97112],
+				[-583.0115,519.747],
+				[-580.48143,495.06188],
+				[-619.80353,437.48318],
+				[-618.25511,419.33943],
+				[-623.90562,412.80394],
+				[-644.25456,410.83398],
+				[-672.91168,362.15754],
+				[-698.65938,357.56007],
+				[-752.91959,259.94025],
+				[-748.40139,247.7285],
+				[-833.12418,87.85618],
+				[-856.9453,62.4415],
+				[-884.3652,75.137151],
+				[-913.16861,60.224555],
+				[-934.31612,33.093752],
+				[-957.665,-23.158498],
+				[-947.13279,-124.77049],
+				[-966.51218,-163.24391],
+				[-975.42465,-212.09645],
+				[-1014.083,-269.46681],
+				[-1088.9038,-403.28903],
+				[-1108.2106,-485.21615],
+				[-1144.1605,-547.91424],
+				[-1139.6371,-576.71414],
+				[-1105.6075,-576.68405],
+				[-1076.0283,-590.98152],
+				[-1049.0238,-622.76102],
+				[-1046.8127,-648.30232],
+				[-1054.7357,-687.98061],
+				[-1057.8637,-777.16842],
+				[-1083.6261,-823.38353],
+				[-1117.1963,-863.5957],
+				[-1137.6579,-901.64382],
+				[-1169.2683,-990.11046],
+				[-1210.406,-1061.1602],
+				[-1311.4386,-1170.7618],
+				[-1370.8899,-1197.6771],
+				[-1440.7044,-1198.3851],
+				[-1597.9582,-1172.0837],
+				[-1624.1998,-1175.7944],
+				[-1637.2274,-1196.8763],
+				[-1630.2042,-1233.6485],
+				[-1630.94,-1260.8796],
+				[-1649.9205,-1335.5718],
+			],
+			"note": "A Land",
+			"visual": true,
+			"inverted": true,
+			"decoration": false,
+			"inPreview": true,
+			"cornerRadius": 1.0,
+			"fixPreview": true
+		}
+	],
+
+	"origin": [0, 0],
+	"zoom": {
+		"start": 1.0,
+		"end": 0.275,
+		"earlyZoom": 2.0,
+		"lateZoom": 1.0,
+		"delay": 0,
+		"duration": 4
+	},
+	"startArea": {
+		"rightBottom": [0.5, -0.5],
+		"leftTop": [-0.5, 0.5]
+	},
+
+	"cityAreas": [{
+			"label": "Road to Nowhere",
+			"paths": [{
+				"points": [
+					[166.31384, -83.024037],
+					[-0.2484645, -211.52422],
+					[3.517617, -289.40066],
+					[-49.023348, -289.11128],
+					[-41.951395, -309.43632],
+					[-61.241833, -414.69985],
+					[83.48048, -438.01178],
+					[120.33475, -523.65947],
+					[462.56392, -247],
+					[726.02954, -247.14484],
+					[713.67816, -204.2886],
+					[690.66414, -163.70789],
+					[661.3171, -147.14984],
+					[639.10904, -124.30499],
+					[627.20424, -89.931342],
+					[636.52682, -48.482151],
+					[658.11257, 1.1453867],
+					[667.33296, 43.909653],
+					[677.33162, 71.347543],
+					[700.55745, 73.534023],
+					[742.66135, 99.162943],
+					[744.4604, 105.32931],
+					[746.9765, 108.00135],
+					[548.82421, 108.1594],
+					[487.52478, 171.25776],
+					[487.43093, 421.58003],
+					[475.15649, 423.46686],
+					[439.70163, 399.55733],
+					[402.64669, 402.43237],
+					[362.39106, 391.35474],
+					[348.10376, 377.43114],
+					[323.83893, 366.58174],
+					[301.3191, 345.03991],
+					[279.68079, 301.24913],
+					[256.98727, 281.41712],
+					[249.21632, 258.43066],
+					[227.54192, 259.23416],
+					[199.57789, 231.89408],
+					[136.98396, 230.85676],
+					[115.40604, 223.59525],
+					[98.255991, 198.6825],
+					[73.83383, 211.30998],
+					[-8.1281151, 124.12085],
+					[59.75888, 7.9922338],
+					[82.122753, -2.6537951],
+					[105.33749, -52.799205]
+				]
+			}],
+			"density": 2.25,
+			"stationSpawns": [{
+				"type": "SPECIAL",
+				"weight": 10.0,
+				"maximum": -1,
+				"activeDay": 16
+			}]
+		},
+		{
+			"label": "Northern Iqaluit",
+			"paths": [{
+				"points": [
+					[-328.6834, 362.44903],
+					[-291.27904, 396.10405],
+					[-166.45274, 419.41728],
+					[-101.28263, 411.69482],
+					[81.362019, 440.9492],
+					[117.63491, 526.15234],
+					[-345.8712, 920.98021],
+					[-414.74149, 1175.971],
+					[-559.99987, 1246.5158],
+					[-454.82029, 930.28632],
+					[-508.90204, 738.66896],
+					[-499.28702, 667.53401],
+					[-459.94838, 633.58238]
+				]
+			}],
+			"density": 2.25,
+			"stationSpawns": [{
+				"type": "SPECIAL",
+				"weight": 10.0,
+				"maximum": -1,
+				"activeDay": 16
+			}]
+		}
+	],
+
+	"stationSpawns": {
+		"cooldown": 0,
+		"schedule": [{
+				"numDays": 7,
+				"randomness": 1.0,
+				"types": ["CIRCLE", "CIRCLE", "TRIANGLE", "SQUARE"]
+			},
+			{
+				"numDays": 7,
+				"randomness": 1.0,
+				"types": ["CIRCLE", "TRIANGLE", "TRIANGLE", "SQUARE"]
+			},
+			{
+				"numDays": 7,
+				"randomness": 1.0,
+				"types": ["CIRCLE", "TRIANGLE", "SQUARE", "SQUARE"]
+			},
+			{
+				"numDays": 7,
+				"randomness": 1.0,
+				"types": ["CIRCLE", "TRIANGLE", "SQUARE", "SPECIAL", "SPECIAL"]
+			},
+			{
+				"numDays": 7,
+				"randomness": 1.0,
+				"types": ["CIRCLE", "TRIANGLE", "SQUARE"]
+			}
+		],
+		"special": ["DIAMOND", "STAR", "WEDGE", "EGG", "CROSS"]
+	},
+	"passengerSpawnScale": 1.9,
+
+	"stationCapacity": 16,
+	"interchangeCapacity": 32,
+	"upgrades": {
+		"initial": [
+			"Line",
+			"Line",
+			"Locomotive",
+			"Locomotive",
+			"Crossing",
+			"Crossing"
+		],
+		"numOptions": [2, 2],
+		"unlocks": [
+			[{
+					"type": "Line",
+					"max": 0,
+					"count": 1.0,
+					"weight": 1.0,
+					"week": 0
+				},
+				{
+					"type": "Locomotive",
+					"max": 0,
+					"count": 1.0,
+					"weight": 1.0,
+					"week": 0
+				}
+			],
+			[{
+					"type": "Line",
+					"max": 1,
+					"count": 6,
+					"weight": 1.0,
+					"week": 0
+				},
+				{
+					"type": "Locomotive",
+					"max": 0,
+					"count": 1,
+					"weight": 1.0,
+					"week": 0
+				},
+				{
+					"type": "Carriage",
+					"max": 0,
+					"count": 1,
+					"weight": 1.0,
+					"week": 0
+				},
+				{
+					"type": "Interchange",
+					"max": 0,
+					"count": 1,
+					"weight": 1.0,
+					"week": 0
+				},
+				{
+					"type": "Crossing",
+					"max": 0,
+					"count": 1,
+					"weight": 1.0,
+					"week": 0
+				}
+			]
+		]
+	},
+
+	"assetNames": [{
+			"asset": "Line",
+			"title": "Icemetro Line",
+			"description": "A new line for the Iqaluit Metro",
+			"forceDescription": true
+		},
+		{
+			"asset": "Locomotive",
+			"title": "Light Car",
+			"description": "A sleek and modern metro vehicle",
+			"forceDescription": true
+		},
+		{
+			"asset": "Interchange",
+			"title": "Metro Plaza",
+			"description": "An expansion to an Icemetro station",
+			"forceDescription": true
+		},
+		{
+			"asset": "Carriage",
+			"title": "Light Carriage",
+			"description": "An attachement to the Light Car",
+			"forceDescription": true
+		},
+		{
+			"asset": "Crossing",
+			"title": "Crossing",
+			"description": "A bridge to cross over the icy waterways of the Arctic",
+			"forceDescription": true
+		}
+	],
+
+	"trainDefinition": "Icemetro",
+
+	"lines": [{
+			"name": "L1",
+			"maxTrains": 2,
+			"allowedTrains": ["Locomotive", "Carriage", "Crossing"]
+		},
+		{
+			"name": "L2",
+			"maxTrains": 2,
+			"allowedTrains": ["Locomotive", "Carriage", "Crossing"]
+		},
+		{
+			"name": "L3",
+			"maxTrains": 2,
+			"allowedTrains": ["Locomotive", "Carriage", "Crossing"]
+		},
+		{
+			"name": "L4",
+			"maxTrains": 2,
+			"allowedTrains": ["Locomotive", "Carriage", "Crossing"]
+		},
+		{
+			"name": "L5",
+			"maxTrains": 2,
+			"allowedTrains": ["Locomotive", "Carriage", "Crossing"]
+		},
+		{
+			"name": "L6",
+			"maxTrains": 2,
+			"allowedTrains": ["Locomotive", "Carriage", "Crossing"]
+		},
+		{
+			"name": "L7",
+			"maxTrains": 2,
+			"allowedTrains": ["Locomotive", "Carriage", "Crossing"]
+		},
+		{
+			"name": "L8",
+			"maxTrains": 2,
+			"allowedTrains": ["Locomotive", "Carriage", "Crossing"]
+		}
+	],
+
+	"stations": [{
+			"tag": "StartPi",
+			"type": "circle"
+		},
+		{
+			"tag": "Start4S",
+			"type": "square"
+		},
+		{
+			"tag": "Start3",
+			"type": "triangle"
+		},
+		{
+			"tag": "Start4R",
+			"type": "diamond"
+		}
+	],
+
+	"transitions": [{
+			"points": [
+				[-13000, 0],
+				[0, 0]
+			],
+			"id": "menu-game",
+			"duration": 5.0,
+			"rotationDuration": 0.0
+		},
+		{
+			"points": [
+				[13000, 700],
+				[8932.3, 615],
+				[3182.1, 742.1],
+				[0, 0]
+			],
+			"id": "menu-pause",
+			"duration": 1.0,
+			"rotationDuration": 0.25
+		}
+	],
+
+	"preview": {
+		"window": {
+			"position": [-1000, -1100],
+			"size": 2200.0
+		},
+		"hidePermanentLines": true,
+
+		"stations": [{
+				"tag": "blue1",
+				"type": "circle",
+				"position": [-272, 126],
+				"ghost": false,
+				"interchange": false
+			},
+			{
+				"tag": "blue2",
+				"type": "square",
+				"position": [-30, 126],
+				"ghost": false,
+				"interchange": false
+			},
+			{
+				"tag": "blue3",
+				"type": "triangle",
+				"position": [418, -25],
+				"ghost": false,
+				"interchange": false
+			},
+			{
+				"tag": "blue4",
+				"type": "triangle",
+				"position": [418, -440],
+				"ghost": false,
+				"interchange": false
+			},
+			{
+				"tag": "blue5",
+				"type": "circle",
+				"position": [418, -630],
+				"ghost": false,
+				"interchange": false
+			},
+			{
+				"tag": "blue6",
+				"type": "circle",
+				"position": [588, -720],
+				"ghost": false,
+				"interchange": false
+			},
+			{
+				"tag": "green3",
+				"type": "circle",
+				"position": [-30, -338],
+				"ghost": false,
+				"interchange": false
+			},
+			{
+				"tag": "green4",
+				"type": "circle",
+				"position": [162, -440],
+				"ghost": false,
+				"interchange": false
+			},
+			{
+				"tag": "green5",
+				"type": "circle",
+				"position": [645, -303],
+				"ghost": false,
+				"interchange": false
+			}
+		],
+
+		"lines": [{
+				"index": 1,
+				"links": [{
+						"station": "blue1",
+						"stops": [{
+							"direction": "EAST",
+							"platform": 0
+						}]
+					},
+					{
+						"station": "blue2",
+						"stops": [{
+							"direction": "WEST",
+							"platform": 0
+						}, {
+							"direction": "EAST",
+							"platform": 0
+						}]
+					},
+					{
+						"station": "blue3",
+						"stops": [{
+							"direction": "NORTHWEST",
+							"platform": 0
+						}, {
+							"direction": "SOUTH",
+							"platform": 0
+						}]
+					},
+					{
+						"station": "blue4",
+						"stops": [{
+							"direction": "NORTH",
+							"platform": 0
+						}, {
+							"direction": "SOUTH",
+							"platform": 0
+						}]
+					},
+					{
+						"station": "blue5",
+						"stops": [{
+							"direction": "NORTH",
+							"platform": 0
+						}, {
+							"direction": "EAST",
+							"platform": 0
+						}]
+					},
+					{
+						"station": "blue6",
+						"stops": [{
+							"direction": "NORTHWEST",
+							"platform": 0
+						}]
+					}
+				],
+				"startAssets": ["Locomotive", "Locomotive", "Carriage", "Carriage"],
+				"canEditTrains": false
+			},
+			{
+				"index": 2,
+				"links": [{
+						"station": "blue1",
+						"stops": [{
+							"direction": "EAST",
+							"platform": 1
+						}]
+					},
+					{
+						"station": "blue2",
+						"stops": [{
+							"direction": "WEST",
+							"platform": -1
+						}, {
+							"direction": "SOUTH",
+							"platform": 0
+						}]
+					},
+					{
+						"station": "green3",
+						"stops": [{
+							"direction": "NORTH",
+							"platform": 0
+						}, {
+							"direction": "EAST",
+							"platform": 0
+						}]
+					},
+					{
+						"station": "green4",
+						"stops": [{
+							"direction": "NORTHWEST",
+							"platform": 0
+						}, {
+							"direction": "EAST",
+							"platform": 0
+						}]
+					},
+					{
+						"station": "blue4",
+						"stops": [{
+							"direction": "WEST",
+							"platform": 0
+						}, {
+							"direction": "EAST",
+							"platform": 0
+						}]
+					},
+					{
+						"station": "green5",
+						"stops": [{
+							"direction": "SOUTHWEST",
+							"platform": 0
+						}]
+					}
+				],
+				"startAssets": ["Locomotive", "Locomotive", "Carriage", "Carriage"],
+				"canEditTrains": false
+			}
+		]
+	}
+}
