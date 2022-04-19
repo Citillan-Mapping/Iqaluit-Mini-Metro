@@ -35,7 +35,7 @@ This map is licensed under the GNU AGPLv3 (GNU AFFERO GENERAL PUBLIC LICENSE ver
 
 This map was made in commemoration of the Inuit peoples and to all residents of the Arctic.
 This map was released on April 1, 2022, the same day 23 years ago when the Terrtory of Nunavut was created on.
-https://www.iqaluit.ca/"
+https://www.iqaluit.ca/
 
 **0.2.0 update**, Major Audio and Quality of life improvements
 Balence Details:
