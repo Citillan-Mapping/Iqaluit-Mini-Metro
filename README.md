@@ -1,7 +1,7 @@
 # Iqaluit
 **A map I made for the hit indie game Mini Metro**
 
-![Iqaluit Mini Metro Banner](Iqaluit-Mini-Metro/MiniMetroWorkshop_Iqaluit.png)
+![Iqaluit Mini Metro Banner](MiniMetroWorkshop_Iqaluit.png)
 
 
 Cross the Sylvia River and the Kuujassi Bay under the colourful northern lights in the bright night sky above.
