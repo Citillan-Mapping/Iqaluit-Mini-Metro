@@ -3,6 +3,7 @@
 ![Iqaluit Mini Metro Banner](MiniMetroWorkshop_Iqaluit.png)
 
 
+
 Cross the Sylvia River and the Kuujassi Bay under the colourful northern lights in the bright night sky above.
 
 Mini Metro has finally made its arrival in the High Arctic, with the first ever release of Iqaluit.
