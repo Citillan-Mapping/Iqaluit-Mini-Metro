@@ -1,6 +1,7 @@
 # Iqaluit
-##A map I made for the hit indie game Mini Metro
-![Tux, the Linux mascot](/assets/images/tux.png)
+**A map I made for the hit indie game Mini Metro**
+
+![](Iqaluit-Mini-Metro/MiniMetroWorkshop_Iqaluit.png)
 
 
 Cross the Sylvia River and the Kuujassi Bay under the colourful northern lights in the bright night sky above.
